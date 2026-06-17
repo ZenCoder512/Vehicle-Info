@@ -1,7 +1,9 @@
 <img src="https://static.vecteezy.com/system/resources/thumbnails/067/164/815/small/black-mercedes-s-class-sedan-isolated-on-transparent-background-png.png" width="100" hight="200" align="left"><img src="https://pngimg.com/uploads/land_rover/land_rover_PNG54.png" width="100" hight="200" align="right"> 
 <h1 align="center">
 Vehicle Info Tool (Python GUI)</h1>
-  <b align="center">A simple Python GUI-based tool to fetch and display vehicle information.</b>
+  <b>
+   <h1 align="center">A simple Python GUI-based tool to fetch and display vehicle information.</h1>
+  </b>
 
 <hr>
 
